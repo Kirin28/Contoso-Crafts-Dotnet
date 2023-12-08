@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irina.kulikova\\Documents\\Projects\\C#-activities\\MyWebApplication\\MyWebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\irina.kulikova\\Documents\\Projects\\C#-activities\\Dotnet-Web-App\\MyWebApplication.csproj",
       "projectName": "MyWebApplication",
-      "projectPath": "C:\\Users\\irina.kulikova\\Documents\\Projects\\C#-activities\\MyWebApplication\\MyWebApplication.csproj",
+      "projectPath": "C:\\Users\\irina.kulikova\\Documents\\Projects\\C#-activities\\Dotnet-Web-App\\MyWebApplication.csproj",
       "packagesPath": "C:\\Users\\irina.kulikova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irina.kulikova\\Documents\\Projects\\C#-activities\\MyWebApplication\\obj\\",
+      "outputPath": "C:\\Users\\irina.kulikova\\Documents\\Projects\\C#-activities\\Dotnet-Web-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irina.kulikova\\AppData\\Roaming\\NuGet\\NuGet.Config",
