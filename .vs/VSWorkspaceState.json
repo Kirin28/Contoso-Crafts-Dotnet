@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Components",
+    "\\Controllers",
+    "\\Models",
+    "\\Pages",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Services\\JsonFileProductService.cs",
+  "PreviewInSolutionExplorer": false
+}
